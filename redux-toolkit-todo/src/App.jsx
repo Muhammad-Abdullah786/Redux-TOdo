@@ -1,10 +1,8 @@
-import { useState } from 'react'
-import './App.css'
+import { useState } from "react";
+import "./App.css";
 
 function App() {
-
-  return ()
-   
+  return <h1>ract redux and todo</h1>;
 }
 
-export default App
+export default App;
